@@ -1,3 +1,8 @@
+# jasonptong's first CS193 Lab
+### Three things I like about CS193:
+-the class is well organized
+-the information learned is interesting
+-the instructors and TAs are helpful
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
